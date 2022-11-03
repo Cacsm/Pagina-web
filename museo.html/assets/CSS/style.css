@@ -1,0 +1,110 @@
+body {
+	background-color: #9BABBE;
+	margin: 0;
+	padding-top: 80px;
+	font-family: 'Commissioner', sans-serif;
+}
+header{
+	background: url("../img/museo.jpg") no-repeat center; 
+	background-size: cover;
+	padding:100px;
+	text-align: center;
+}
+
+nav {
+	background-color: white;
+	width: 100%;
+	position: fixed;
+	top: 0;
+}
+nav a {
+	color: black;
+	text-decoration:none;
+	}
+
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	}
+
+nav ul li {
+	margin: 10px;
+}
+.caja { 
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: #ffffff;
+background: #889ccf;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja2 {
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: #889ccf;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja3 {
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: #889ccf;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+
+}
+
+.caja5 {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: #889ccf;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja6 {
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: #889ccf;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.equipo {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+margin: 100px;
+margin-top: 25px;
+overflow: hidden;
+text-align: left;
+}
+
+
+
+
+
