@@ -1,0 +1,198 @@
+body {
+	background-color: black;
+	margin: 0;
+	padding-top: 80px;
+	font-family: 'Commissioner', sans-serif;
+	font color: white;
+}
+header{
+	background: white; 
+	background-size: cover;
+	margin:100px;
+	padding:100px;
+	text-align: center;
+	font color: white;
+}
+
+nav {
+	background-color: white;
+	width: 100%;
+	position: fixed;
+	font color:white;
+	top: 0;
+}
+nav a {
+	color: black;
+	text-decoration:none;
+	}
+
+nav ul{
+	list-style-type: none;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	}
+
+nav ul li {
+	margin: 10px;
+}
+.caja { 
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: black;
+background: white;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja2 {
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: grey;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja3 {
+font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: black;
+background: white;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+
+}
+
+.caja5 {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: grey;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.caja6 {
+font-family: 'Commissioner', sans-serif;
+color: white;
+font-size: 18px;
+font-weight: 400;
+color: white;
+background: grey;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+}
+
+.equipo {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+margin: 100px;
+margin-top: 25px;
+overflow: hidden;
+text-align: left;
+}
+
+.museos {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 400;
+color: white;
+margin: 100px;
+margin-top: 25px;
+overflow: hidden;
+text-align: left;
+}
+
+.dimoda {
+	font-family: 'Commissioner', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	color: black;
+	margin: 100px;
+	margin-top: 25px;
+	text-align: left;
+	background-color: white;
+	 
+	width: 400px;
+  border: 100px ;
+  padding: 60px;
+  margin: 100px;
+}
+
+.dimodaimg{
+	margin: 200px;
+	float: right;
+	margin-top: 0px;
+}
+
+.domoimg {
+	margin: 200px;
+	float: right;
+	margin-top: 0px;
+}
+
+.gerfried {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 10px;
+color: black;
+background: white;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+width: 300px;
+  border: 80px ;
+  padding: 60px;
+  margin: 40px;
+  position: left;
+}
+
+.muv {
+	font-family: 'Commissioner', sans-serif;
+font-size: 18px;
+font-weight: 10px;
+color: black;
+background: white;
+margin: 100px;
+overflow: hidden;
+padding: 20px;
+text-align: center;
+width: 300px;
+  border: 80px ;
+  padding: 60px;
+  margin: 40px;
+  position: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
